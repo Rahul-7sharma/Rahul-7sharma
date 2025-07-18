@@ -1,6 +1,6 @@
 <pre>
 👋 Hi, I’m Rahul Sharma
-👀 I’m interested in the data science field.
+👀 I’m interested in the data Analytics field.
 🌱 I’m currently learning a data science course from AU Ignite.
 💞️ I’m looking to collaborate on data analytics and data science projects.
 📫 You can reach me through GitHub or Rahulsharma762001@gmail.com.
